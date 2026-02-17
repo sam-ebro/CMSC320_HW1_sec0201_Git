@@ -1,0 +1,2 @@
+Q1: Why do we use Git?
+Answer: Git lets us track changes and collaborate
