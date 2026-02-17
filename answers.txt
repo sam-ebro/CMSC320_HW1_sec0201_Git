@@ -2,3 +2,5 @@ Q1: Why do we use Git?
 Answer: Git lets us track changes and collaborate
 Q2: What field could data science be applied to? Give an Example.
 Answer: Data science can be applied to healthcare like predicting hospital readmission risk using patient history and lab results.
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merging combines branches by creating a merge result, while rebasing makes branch outputs on top of each other and so theyl ook more linear.
