@@ -1,2 +1,4 @@
 Q1: Why do we use Git?
 Answer: Git lets us track changes and collaborate
+Q2: What field could data science be applied to? Give an Example.
+Answer: Data science can be applied to healthcare like predicting hospital readmission risk using patient history and lab results.
